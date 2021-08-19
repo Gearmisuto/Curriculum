@@ -1,0 +1,53 @@
+.size-img{
+    width: 135px;
+    border-radius: 50%;
+    
+}
+.centrado{
+    margin:10px auto;
+	display:block;
+}
+
+.img-container{
+    margin: 10px;
+}
+.about-container{
+    margin: 20px;
+    background: color #E8F5FF;
+    
+}
+.contacto-container{
+    margin: 20px;
+    background-color:#C3C3E6;
+    
+}
+
+.body-color{
+    background-color: #5FBB97;
+}
+
+.general{
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+.encabezado{
+    font-size: 20px;
+    font-family: 'Azeret Mono', monospace;
+}
+li{
+    font-family: 'Hina Mincho', serif;
+}
+legend{
+    font-family: 'Azeret Mono', monospace;
+}
+ul{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+}
