@@ -13,12 +13,20 @@
 }
 .about-container{
     margin: 20px;
-    background: color #E8F5FF;
-    
+    background: white;
+    border-radius: 10px;
+}
+.me-container{
+    margin: 0px;
+    background-color:#C3C3E6;
+    border-radius: 5px;
+    text-align: center;
 }
 .contacto-container{
-    margin: 20px;
+    margin: 0px;
     background-color:#C3C3E6;
+    border-radius: 5px;
+    text-align: center;
     
 }
 
