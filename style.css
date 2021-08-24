@@ -9,7 +9,6 @@
 .progress{
     margin-right: 20px;
 }
-}
 #contact{
     display: grid;
     grid-template-columns: 0fr 3fr;
