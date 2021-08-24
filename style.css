@@ -1,8 +1,94 @@
-.size-img{
-    width: 135px;
-    border-radius: 50%;
-    
+#header{
+    display: grid;
+    grid-template-columns: 2fr 5fr;
+    background: lightskyblue;
+    color: white;
+    font-family: Raleway;
 }
+
+.progress{
+    margin-right: 20px;
+}
+}
+#contact{
+    display: grid;
+    grid-template-columns: 0fr 3fr;
+}
+p{
+    font-family: 'PT Serif', serif;
+    text-align: justify;
+}
+#mastered{
+    font-family: 'PT Serif', serif;
+    display: grid;
+    grid-template-columns: 1fr 3fr 3fr;
+}
+#languajes{
+    font-family: 'PT Serif', serif;
+    display: grid;
+    grid-template-columns: 1fr 3fr 3fr;
+}
+
+#general-1{
+    font-family: 'PT Serif', serif;
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr 3fr;
+}
+#skill-1{
+    font-family: 'PT Serif', serif;
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr 3fr ;
+}
+#two{
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+#training{
+    font-family: 'PT Serif', serif;
+    display: grid;
+    grid-template-columns: 1fr 3fr
+}
+#filled{
+    font-family: 'PT Serif', serif;
+    display: grid;
+    grid-template-columns: 1fr 2.8fr
+}
+#interest{
+    font-family: 'PT Serif', serif;
+    display: grid;
+    grid-template-columns: 1fr 7fr ;
+}
+.size-img{
+    height: 100px;
+    width: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+#name{
+    letter-spacing: 0.3em;
+    font-weight: bold;
+    margin-top: 20px;
+}
+#underline{
+    width: 525px;
+    height: 8px;
+    margin-top: 20px;
+    background:white;
+}
+#sub-title{
+    background: #CDCDCF;
+    padding: 10px;
+}
+#wrapper{
+    padding: 0px;
+    margin-top: 50px;
+}
+.glyphicon {
+    margin-left: 40px;
+}
+/*
 .centrado{
     margin:10px auto;
 	display:block;
@@ -31,7 +117,6 @@
 }
 
 .body-color{
-    background-color: #5FBB97;
 }
 
 .general{
@@ -59,3 +144,4 @@ ul{
     margin-right: 20px;
     border-radius: 10px;
 }
+*/
